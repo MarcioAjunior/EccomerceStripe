@@ -1,5 +1,5 @@
 # EccomerceStripe
 
->> Start app
+> Start app
 
 - run npm or yarn install
